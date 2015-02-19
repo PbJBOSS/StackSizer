@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stacksizer",
+  "name": "Stack Sizer",
+  "description": "Changes all items with a stacksize of 16 to 64",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PbJBOSS"],
+  "credits": "Aulton",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
